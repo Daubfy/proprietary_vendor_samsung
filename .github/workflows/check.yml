@@ -14,22 +14,11 @@ jobs:
       fail-fast: false
       matrix:
         include:
-          - model: "SM-A546B"
-            csc: "EUX"
-            omc: "OXM"
-            imei: "350756481692245"
-          - model: "SM-A546E"
-            csc: "EGY"
-            omc: "OJM"
-            imei: "350090711234564"
-          - model: "SM-A5460"
-            csc: "CHC"
-            omc: "CHC"
-            imei: "357733314742433"
-          - model: "SM-A546S"
-            csc: "SKC"
-            omc: "SKC"
-            imei: "351992292910349"
+          - model: "SM-A245M"
+            csc: "COO"
+            omc: "OWO"
+            imei: "354314906239469"
+
 
     concurrency:
       group: "update-${{ matrix.model }}-${{ matrix.csc }}-${{ github.ref }}"
