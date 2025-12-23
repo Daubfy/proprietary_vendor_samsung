@@ -1,0 +1,12 @@
+# Firmware for model SM-A245M - from Samsung package version A245MUBSAEYL2
+
+efuse.img_SM-A245M|4e1c2c4a0c61680aa81169c3f91786a9a128ba1f
+lk-verified.img_SM-A245M|c4356f6c51c38ebec8d5ff60c7c3f9eed7a85dfb
+md1img.img_SM-A245M|60165e6107b57c9fc531e160413237b91b42b9fd
+param.bin_SM-A245M|fb74f03ecf409335318ac2d54ca6dc241843f25f
+preloader.img_SM-A245M|abeaedf70feb6295fa3b3a0ddd8cbd1f068b6434
+uh.bin_SM-A245M|fb290366ad56fa2ea2fb544515e3f5ff32d57c47
+up_param.bin_SM-A245M|1f472defdc6dbe0a1b32f23b25d83b26371f0093
+
+# Files containing Samsung package version for supported models
+version_SM-A245M|6b6174f2ca3bbeec16573b5e7b961f87ab4fc703
