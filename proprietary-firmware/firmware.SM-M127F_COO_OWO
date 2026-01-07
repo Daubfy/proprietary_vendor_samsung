@@ -1,0 +1,13 @@
+# Firmware for model SM-M127F - from Samsung package version M127FXXS9DXJ1
+
+keystorage.bin_SM-M127F|980dd5a5de56e1437e3f8ff3b8a5019a476ff204
+ldfw.img_SM-M127F|8319ebea0f5da88d97a1681fe63988c8cc2347a5
+modem.bin_SM-M127F|e10969a20fdbb855e8ca21b24399e1ee0c5d709f
+modem_debug.bin_SM-M127F|506b6e1767bd017b0f88d83d06742b0461c0d504
+sboot.bin_SM-M127F|acfba50f5cde0f7d560daf5aa17cdadac1d1e798
+tzar.img_SM-M127F|f81eec76b33dd8a03ac6bd052e8f08b782a54259
+tzsw.img_SM-M127F|107b467e25a21420731b2b297192fedd9c352a3e
+up_param.bin_SM-M127F|9bd02195b78d4e37b809ef1b7a07cd2383bcee4e
+
+# Files containing Samsung package version for supported models
+version_SM-M127F|fe1fa50ce0835b088b4cdce21d9c90b9d92a9f22
