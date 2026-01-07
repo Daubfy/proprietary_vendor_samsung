@@ -18,6 +18,10 @@ jobs:
             csc: "COO"
             omc: "OWO"
             imei: "354314906239469"
+          - model: "SM-M127F"
+            csc: "COO"
+            omc: "OWO"
+            imei: "350360450090679"
 
 
     concurrency:
