@@ -24,7 +24,7 @@ jobs:
             imei: "350360450090679"
           - model: "SM-S921B"
             csc: "EUX"
-            omc: "OXM"
+            omc: "OXD"
             imei: "355680659948871"            
 
 
