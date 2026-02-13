@@ -1,0 +1,19 @@
+# Firmware for model SM-S921B - from Samsung package version S921BXXSCCZA1
+
+dtp.bin_SM-S921B|aea0f78f0a1c8de791b3007f7e352e8026f3397c
+fld.bin_SM-S921B|9a8c273af3741f844908fd31837ec9a3db69c199
+harx.bin_SM-S921B|157d09aa083a328a77496cb1705aeda13e78ecfd
+keystorage.bin_SM-S921B|e17931cd2cde0355190611f92ededa02473f5fd3
+ldfw.img_SM-S921B|302e4c434aa5ecec98ee283477474ba0dbad6b7c
+modem.bin_SM-S921B|5ec6964abef2bfbd112f1d81939ef63bec3b43da
+modem_debug.bin_SM-S921B|64f558e4b80e342be2089dde4aa8fe39e5f95466
+sboot.bin_SM-S921B|f3a1c43ff3c10da57d3bc1258c9689dce5044c0c
+ssp.img_SM-S921B|03b9a804d25884af609faab4f719dd5c4ebc3aaa
+svm.bin_SM-S921B|0398b7b6c7d531c94453ac85577026e5bc4a136f
+tzar.img_SM-S921B|1a45f1ebab183c902fd5aac54d240c5ed226bece
+tzsw.img_SM-S921B|6cec5fa4a9e15d12f83c817751f7a4afff23511e
+uh.bin_SM-S921B|ce4533c5856c9450c1da8ed6da972c359826c3a6
+up_param.bin_SM-S921B|ba5621e8d78abb4c8472fd5a953299f58371d684
+
+# Files containing Samsung package version for supported models
+version_SM-S921B|9bb209134adfe7c19db4e462f019efddf5560110
