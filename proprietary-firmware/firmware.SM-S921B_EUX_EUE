@@ -1,19 +1,19 @@
-# Firmware for model SM-S921B - from Samsung package version S921BXXSCCZA1
+# Firmware for model SM-S921B - from Samsung package version S921BXXSDCZB2
 
-dtp.bin_SM-S921B|aea0f78f0a1c8de791b3007f7e352e8026f3397c
-fld.bin_SM-S921B|9a8c273af3741f844908fd31837ec9a3db69c199
-harx.bin_SM-S921B|157d09aa083a328a77496cb1705aeda13e78ecfd
-keystorage.bin_SM-S921B|e17931cd2cde0355190611f92ededa02473f5fd3
-ldfw.img_SM-S921B|302e4c434aa5ecec98ee283477474ba0dbad6b7c
-modem.bin_SM-S921B|5ec6964abef2bfbd112f1d81939ef63bec3b43da
+dtp.bin_SM-S921B|9232ce5bda5eb33f5be2fa4fa1d8e1d7b4080436
+fld.bin_SM-S921B|f3e2da163cd8a2336abf38a0f678d73218e06afc
+harx.bin_SM-S921B|d924e45a76f6ef4ce326c43e0fdcd396a49855cd
+keystorage.bin_SM-S921B|531202a9a9eefa34075825686261a867b30cf446
+ldfw.img_SM-S921B|a606a41cf81f49572ba2d620c4e86dd33e976972
+modem.bin_SM-S921B|fae549190d9b6e45e86e4727d589697a1c5a8eb2
 modem_debug.bin_SM-S921B|64f558e4b80e342be2089dde4aa8fe39e5f95466
-sboot.bin_SM-S921B|f3a1c43ff3c10da57d3bc1258c9689dce5044c0c
+sboot.bin_SM-S921B|43426ad70b628de259c31ce51445d913ae500092
 ssp.img_SM-S921B|03b9a804d25884af609faab4f719dd5c4ebc3aaa
-svm.bin_SM-S921B|0398b7b6c7d531c94453ac85577026e5bc4a136f
-tzar.img_SM-S921B|1a45f1ebab183c902fd5aac54d240c5ed226bece
-tzsw.img_SM-S921B|6cec5fa4a9e15d12f83c817751f7a4afff23511e
-uh.bin_SM-S921B|ce4533c5856c9450c1da8ed6da972c359826c3a6
-up_param.bin_SM-S921B|ba5621e8d78abb4c8472fd5a953299f58371d684
+svm.bin_SM-S921B|e4c7adef26f7b8cbf271262ada6eae197ee2e104
+tzar.img_SM-S921B|a5eb1f869bb5f8a03ce0c9b9f2ea770fc4473cab
+tzsw.img_SM-S921B|fe2b4ebe4134b6ff97a8a69b4a51692c611fc22d
+uh.bin_SM-S921B|8ad6f0b3654d012e4f4391072964251189bad83a
+up_param.bin_SM-S921B|43795a09400b18be90d2e0644f1fdb079eeeeec2
 
 # Files containing Samsung package version for supported models
-version_SM-S921B|9bb209134adfe7c19db4e462f019efddf5560110
+version_SM-S921B|8f74fd19f48ef92e5c89839ec65d874449b6b3c1
